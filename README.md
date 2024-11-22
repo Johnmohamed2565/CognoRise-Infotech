@@ -27,6 +27,7 @@ To create a simple number guessing game where the user has to guess a randomly g
    ```bash
    javac NumberGuessingGame.java
    java NumberGuessingGame
+### Sample output:
 ![Screenshot 2024-11-16 221813](https://github.com/user-attachments/assets/5cab27a2-56eb-4bca-8f87-95bca5e97790)
 
 ## Project 2: CalculatorApp
@@ -44,6 +45,7 @@ To develop a basic calculator application that can perform simple arithmetic ope
    ```bash
     javac CalculatorApp.java
    java CalculatorApp
+### Sample output:
 ![Screenshot 2024-11-16 222003](https://github.com/user-attachments/assets/692aa24a-c827-4e69-a9fa-f98a7c2d38d5)
 
 ## Project 3: Student Course Registration System
@@ -62,6 +64,7 @@ To build a system that allows students to register for courses, manage their reg
    ```bash
    javac Course.java CourseDatabase.java Student.java StudentDatabase.java Main.java
    java Main
+### Sample output:
 ![Screenshot 2024-11-16 223431](https://github.com/user-attachments/assets/1f18f97f-aaca-4423-9727-a0d4f177a0e9)
 
 git clone[ https://github.com/yourusername/your-repo-name.git](https://github.com/Johnmohamed2565/CognoRise-Infotech.git)
