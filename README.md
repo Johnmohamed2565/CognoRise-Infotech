@@ -1,2 +1,74 @@
 # CognoRise-Infotech
-The Task i completed in Cognorise Infotech in the domain is Java Development. 
+The Task I Completed in Cognorise Infotech in the Domain is Java Development. 
+# Java Development Projects
+
+This repository contains three Java development projects: a Number Guessing Game, a Calculator App, and a Student Course Registration System. Each project demonstrates different aspects of Java programming, from basic logic and user interaction to more complex data management and application structure.
+
+## Table of Contents
+- [Project 1: Number Guessing Game](#project-1-number-guessing-game)
+- [Project 2: Calculator App](#project-2-calculator-app)
+- [Project 3: Student Course Registration System](#project-3-student-course-registration-system)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Project 1: Number Guessing Game
+### Objective
+To create a simple number guessing game where the user has to guess a randomly generated number within a certain range.
+
+### Features
+- Random number generation
+- User input handling
+- Feedback on guesses (too high, too low, correct)
+- Limited number of attempts
+
+### How to Run
+1. Compile the `NumberGuessingGame.java` file:
+   ```bash
+   javac NumberGuessingGame.java
+   java NumberGuessingGame
+
+## Project 2: CalculatorApp
+
+### Objective
+To develop a basic calculator application that can perform simple arithmetic operations such as addition, subtraction, multiplication, and division.
+
+### Features
+- User input for two numbers and basic operations
+- Basic arithmetic operations like (+,-,*,/)
+- Error handling for invalid inputs and division by zero
+
+  ### How to Run
+1. Compile the `CalculatorApp.java` file:
+   ```bash
+    javac CalculatorApp.java
+   java CalculatorApp
+
+## Project 3: Student Course Registration System
+
+### Objective
+To build a system that allows students to register for courses, manage their registrations, and view available courses.
+
+### Features
+- Add and remove courses
+- Register and deregister students
+- Display course and student information
+
+### How to Run
+1. Compile the `Course.java CourseDatabase.java Student.java StudentDatabase.java Main.java
+` file:
+   ```bash
+   javac Course.java CourseDatabase.java Student.java StudentDatabase.java Main.java
+   java Main
+
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
